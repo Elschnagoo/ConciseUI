@@ -11,7 +11,7 @@ from xml.etree.ElementTree import Element, SubElement
 
 # Version
 GAME_VERSION = '1.0.5.11 (516180)'
-MOD_VERSION = '1.6.2'
+MOD_VERSION = '1.7.0'
 
 # Paths
 PATH_PROJECT = Path(__file__).parents[1]
@@ -20,7 +20,7 @@ PATH_MODINFO = Path(PATH_MOD, 'cui.modinfo')
 
 # Mod Information
 MOD_ID      = '5f504949-398a-4038-a838-43c3acc4dc10'
-MOD_NAME    = '[COLOR_Civ6LightBlue]Concise UI[ENDCOLOR]'
+MOD_NAME    = '[COLOR_Civ6LightBlue]Concise UI @Elschnagoo[ENDCOLOR]'
 MOD_TEASER  = 'For a better gaming experience.'
 MOD_DESC    = (
     'Concise UI greatly improves the game experience by '
